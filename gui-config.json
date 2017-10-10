@@ -1,0 +1,75 @@
+{
+"configs" : [
+  {
+"server" : "jp01-49.55boom.net",
+"server_port" : 19521,
+"password" : "AGcV8TDbAERJ",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "jp06-49.55boom.net",
+"server_port" : 19521,
+"password" : "AGcV8TDbAERJ",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "sg01-49.55boom.net",
+"server_port" : 19521,
+"password" : "AGcV8TDbAERJ",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "sg02-49.55boom.net",
+"server_port" : 19521,
+"password" : "AGcV8TDbAERJ",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "sg03-49.55boom.net",
+"server_port" : 19521,
+"password" : "AGcV8TDbAERJ",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "us01-49.55boom.net",
+"server_port" : 19521,
+"password" : "AGcV8TDbAERJ",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "us02-49.55boom.net",
+"server_port" : 19521,
+"password" : "AGcV8TDbAERJ",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "us03-49.55boom.net",
+"server_port" : 19521,
+"password" : "AGcV8TDbAERJ",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "hk02-49.55boom.net",
+"server_port" : 19521,
+"password" : "AGcV8TDbAERJ",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+
+],
+"strategy" : "com.shadowsocks.strategy.ha",
+"index" : -1,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : null,
+"useOnlinePac" : false}
