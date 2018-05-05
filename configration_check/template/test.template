@@ -1,0 +1,8 @@
+[default]
+host= $host_ip
+port= $mysql_port
+user=root
+password=root
+db_name=evaluting_sys
+[concurrent]
+processor=20

@@ -1,0 +1,2 @@
+# configration_check
+检查配置文件里的配置项是否与期待值一致
